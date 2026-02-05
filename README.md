@@ -20,8 +20,8 @@ camera setup, mouse interaction, multiple windows, and lighting.
 ![Window 1](screenshots/int.png)
 
 ### Interactive View(Window 2)
-![Window 2](screenshots/window2.png)
-![Window 2](screenshots/win2.png)
+![Window 2](screenshots/window2.png)   ![Window 2](screenshots/win2.png)
+
 
 ## Technologies Used
 
