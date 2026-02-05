@@ -13,8 +13,8 @@ camera setup, mouse interaction, multiple windows, and lighting.
 - Different colors are used to distinguish between the views.
 - Basic lighting is implemented as a bonus feature.
 
-## Screenshots
-(screenshots/Window1 and 2.png)
+## Screenshots (Window 1 and 2)
+![Window 1 and 2](screenshots/Window1 and 2.png)
 ### Interactive View (Window 1)
 ![Window 1](screenshots/int.png)
 
