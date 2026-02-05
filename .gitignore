@@ -1,0 +1,13 @@
+# Visual Studio generated folders
+.vs/
+Debug/
+Release/
+
+# Build files
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# User-specific files
+*.user
